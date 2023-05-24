@@ -3,7 +3,7 @@
 Welcome to the Cyclistic Data Analysis Project repository! This project focuses on analyzing and gaining insights from the Cyclistic bike-sharing dataset.
 
 ## About Cyclistic
-Cyclistic is a fictional bike-sharing company operating in a major city. The company offers bikes on a membership basis, allowing users to rent bikes for short periods. By analyzing the data collected from users, we aim to uncover valuable insights to help Cyclistic optimize its operations and improve user experience.
+Cyclistic is a bike-sharing company operating in Chicago City. The company offers bikes on a membership basis, allowing users to rent bikes for short periods. By analyzing the data collected from users, we aim to uncover valuable insights to help Cyclistic optimize its operations and improve user experience.
 
 ## Repository Contents
 - `data/`: This directory contains the Cyclistic dataset files in CSV format.
